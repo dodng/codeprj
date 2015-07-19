@@ -1,0 +1,2 @@
+/home/users/chenzhifeng02/tool/curl-7.35.0/src/CMakeFiles/curl.dir
+/home/users/chenzhifeng02/tool/curl-7.35.0/lib/CMakeFiles/libcurl.dir

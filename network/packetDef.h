@@ -1,0 +1,21 @@
+////////////////////////////////////////////////////////////////////////////////////
+// 
+// @file: packetDef.h
+// @author: by Mr.Chen
+// @date: 2014/5/11	02:27
+// @brief: 消息包ID定义
+//
+////////////////////////////////////////////////////////////////////////////////////
+#pragma once
+#ifndef __PACKET_DEFINE_H_
+#define __PACKET_DEFINE_H_
+
+enum PACKET_ID
+{
+	PACKET_ID_INVALID=-1,
+	PACKET_CG_TEST,						//测试
+	PACKET_ID_NUMBER,
+};
+
+
+#endif

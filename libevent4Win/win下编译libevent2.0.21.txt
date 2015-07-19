@@ -1,0 +1,9 @@
+使用vs2008命令行工具编译
+
+> cd D:\OpenSource\libevent\libevent-2.0.21-stable
+> nmake /f Makefile.nmake
+
+生成lib：
+libevent_extras.lib
+libevent_core.lib
+libevent.lib
